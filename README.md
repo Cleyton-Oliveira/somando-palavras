@@ -1,2 +1,6 @@
-# somando-palavras
-Tralho de Sistemas multimídia
+# Somando palavras
+## Tralho de Sistemas Multimídia
+
+O mundo moderno se tornou, massivamente, multimídia. Para 2020, o International Data Corporation estimou que aproximadamente 350 zettabytes ( ou 35 trilhões de gigabytes) de dados seriam gerados. Em sua pesquisa ele também apontou que em 2012 já haviam mais de 500 quatrilhões de arquivos armazenados.
+Esse imenso conjunto de dados abre um mar de possibilidades para a extração de informações, conhecimento, e emoções de texto, imagens, gráficos, áudio, e vídeo. A Extração de informações da multimídia é o processo que extrai conteúdos não explícitos das informações. E, com o aumento de dados e a evolução das técnicas de análises (por exemplo, o campo da Inteligência artificial que evolui continuamente), essas tecnologias poderão oferecer suporte em diversas áreas do conhecimento humano, até mesmo algumas áreas mais subjetivas, como a psicologia, sociologia e, possivelmente, política(Maybury, 2012).
+Neste sentido, o trabalho aqui descrito propõe o estudo de uma técnica de extração de semântica de palavras, o Word2Vec. Expõe-se as possibilidades de inferência utilizando a técnica através da construção de um artefato que recebe inputs com a somas ou a subtração de palavras em inglês e retorna uma inferência lógica baseando-se na semântica das palavras, e um conjunto de imagens associadas a essa palavra inferida.
